@@ -2,7 +2,7 @@
 
 //alert(4+4)
 /*
-Numer=2 to power 53
+Number=2 to power 53
 BigInt
 String
 Boolean
